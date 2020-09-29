@@ -6,6 +6,8 @@ The Unbinding of Isaac is a dungeon crawler video game where the main hero is Is
 
 This project was developed by Miguel Pinto and Tiago Alves.
 
+To Run the project use ./gradlew run
+
 ## Implemented features
 
 
