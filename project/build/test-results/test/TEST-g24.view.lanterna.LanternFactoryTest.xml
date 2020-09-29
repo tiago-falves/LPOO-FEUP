@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="g24.view.lanterna.LanternFactoryTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-06-02T13:47:29" hostname="monchai-XPS-15-9570" time="0.01">
+  <properties/>
+  <testcase name="createMenuViewTest" classname="g24.view.lanterna.LanternFactoryTest" time="0.002"/>
+  <testcase name="constructorTest" classname="g24.view.lanterna.LanternFactoryTest" time="0.001"/>
+  <testcase name="createWinViewTest" classname="g24.view.lanterna.LanternFactoryTest" time="0.001"/>
+  <testcase name="createPlayStateTest" classname="g24.view.lanterna.LanternFactoryTest" time="0.002"/>
+  <testcase name="createGameOverViewTest" classname="g24.view.lanterna.LanternFactoryTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

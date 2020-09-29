@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="g24.controller.element.ProjectileControllerTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-06-02T13:47:29" hostname="monchai-XPS-15-9570" time="0.132">
+  <properties/>
+  <testcase name="shoot1" classname="g24.controller.element.ProjectileControllerTest" time="0.106"/>
+  <testcase name="shoot2" classname="g24.controller.element.ProjectileControllerTest" time="0.003"/>
+  <testcase name="shoot3" classname="g24.controller.element.ProjectileControllerTest" time="0.017"/>
+  <testcase name="shoot4" classname="g24.controller.element.ProjectileControllerTest" time="0.002"/>
+  <testcase name="increaseDamage" classname="g24.controller.element.ProjectileControllerTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

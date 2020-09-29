@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="g24.view.lanterna.LanternaActionTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2020-06-02T13:47:27" hostname="monchai-XPS-15-9570" time="1.061">
+  <properties/>
+  <testcase name="parseQUIT" classname="g24.view.lanterna.LanternaActionTest" time="1.032"/>
+  <testcase name="parseException" classname="g24.view.lanterna.LanternaActionTest" time="0.009"/>
+  <testcase name="parseEnter" classname="g24.view.lanterna.LanternaActionTest" time="0.003"/>
+  <testcase name="parseNothing" classname="g24.view.lanterna.LanternaActionTest" time="0.001"/>
+  <testcase name="parseArrowDown" classname="g24.view.lanterna.LanternaActionTest" time="0.002"/>
+  <testcase name="parseArrowLeft" classname="g24.view.lanterna.LanternaActionTest" time="0.002"/>
+  <testcase name="parseEOF" classname="g24.view.lanterna.LanternaActionTest" time="0.002"/>
+  <testcase name="parseArrowRight" classname="g24.view.lanterna.LanternaActionTest" time="0.002"/>
+  <testcase name="parseArrowUp" classname="g24.view.lanterna.LanternaActionTest" time="0.001"/>
+  <testcase name="parseSpaceCharacter" classname="g24.view.lanterna.LanternaActionTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

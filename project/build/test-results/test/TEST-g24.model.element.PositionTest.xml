@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="g24.model.element.PositionTest" tests="19" skipped="0" failures="0" errors="0" timestamp="2020-06-02T13:47:32" hostname="monchai-XPS-15-9570" time="0.007">
+  <properties/>
+  <testcase name="positionMoveDown1" classname="g24.model.element.PositionTest" time="0.001"/>
+  <testcase name="positionMoveDown2" classname="g24.model.element.PositionTest" time="0.0"/>
+  <testcase name="positionMoveLeft1" classname="g24.model.element.PositionTest" time="0.0"/>
+  <testcase name="positionMoveLeft2" classname="g24.model.element.PositionTest" time="0.0"/>
+  <testcase name="positionGetCoords1" classname="g24.model.element.PositionTest" time="0.0"/>
+  <testcase name="positionGetCoords2" classname="g24.model.element.PositionTest" time="0.0"/>
+  <testcase name="positionMoveRight1" classname="g24.model.element.PositionTest" time="0.0"/>
+  <testcase name="positionMoveRight2" classname="g24.model.element.PositionTest" time="0.0"/>
+  <testcase name="positionMoveUp1" classname="g24.model.element.PositionTest" time="0.0"/>
+  <testcase name="positionMoveUp2" classname="g24.model.element.PositionTest" time="0.0"/>
+  <testcase name="notEqualPosition1" classname="g24.model.element.PositionTest" time="0.0"/>
+  <testcase name="notEqualPosition2" classname="g24.model.element.PositionTest" time="0.0"/>
+  <testcase name="notEqualPosition3" classname="g24.model.element.PositionTest" time="0.0"/>
+  <testcase name="collide" classname="g24.model.element.PositionTest" time="0.0"/>
+  <testcase name="equalPosition1" classname="g24.model.element.PositionTest" time="0.0"/>
+  <testcase name="equalPosition2" classname="g24.model.element.PositionTest" time="0.001"/>
+  <testcase name="equalPosition3" classname="g24.model.element.PositionTest" time="0.0"/>
+  <testcase name="positionHashCode1" classname="g24.model.element.PositionTest" time="0.0"/>
+  <testcase name="positionHashCode2" classname="g24.model.element.PositionTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

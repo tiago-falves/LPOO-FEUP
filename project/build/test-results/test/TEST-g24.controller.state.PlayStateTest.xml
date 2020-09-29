@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="g24.controller.state.PlayStateTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-06-02T13:47:29" hostname="monchai-XPS-15-9570" time="0.352">
+  <properties/>
+  <testcase name="updateWon" classname="g24.controller.state.PlayStateTest" time="0.344"/>
+  <testcase name="updateLost" classname="g24.controller.state.PlayStateTest" time="0.006"/>
+  <testcase name="other" classname="g24.controller.state.PlayStateTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

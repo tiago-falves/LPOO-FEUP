@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="g24.controller.commands.user.MoveDownCommandTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-06-02T13:47:30" hostname="monchai-XPS-15-9570" time="0.008">
+  <properties/>
+  <testcase name="test1" classname="g24.controller.commands.user.MoveDownCommandTest" time="0.003"/>
+  <testcase name="test2" classname="g24.controller.commands.user.MoveDownCommandTest" time="0.001"/>
+  <testcase name="test3" classname="g24.controller.commands.user.MoveDownCommandTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

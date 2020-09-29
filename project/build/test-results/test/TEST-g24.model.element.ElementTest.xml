@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="g24.model.element.ElementTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-06-02T13:47:32" hostname="monchai-XPS-15-9570" time="0.011">
+  <properties/>
+  <testcase name="setPositions" classname="g24.model.element.ElementTest" time="0.006"/>
+  <testcase name="getSymbol" classname="g24.model.element.ElementTest" time="0.001"/>
+  <testcase name="getPositions" classname="g24.model.element.ElementTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

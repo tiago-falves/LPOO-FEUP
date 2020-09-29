@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="g24.controller.map.MapControllerTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2020-06-02T13:47:32" hostname="monchai-XPS-15-9570" time="0.11">
+  <properties/>
+  <testcase name="changeRoom1" classname="g24.controller.map.MapControllerTest" time="0.03"/>
+  <testcase name="changeRoom2" classname="g24.controller.map.MapControllerTest" time="0.007"/>
+  <testcase name="changeRoom3" classname="g24.controller.map.MapControllerTest" time="0.005"/>
+  <testcase name="changeRoom4" classname="g24.controller.map.MapControllerTest" time="0.014"/>
+  <testcase name="removeObserver" classname="g24.controller.map.MapControllerTest" time="0.009"/>
+  <testcase name="moveUp" classname="g24.controller.map.MapControllerTest" time="0.01"/>
+  <testcase name="finish1" classname="g24.controller.map.MapControllerTest" time="0.005"/>
+  <testcase name="finish2" classname="g24.controller.map.MapControllerTest" time="0.004"/>
+  <testcase name="finish3" classname="g24.controller.map.MapControllerTest" time="0.005"/>
+  <testcase name="addObserver" classname="g24.controller.map.MapControllerTest" time="0.003"/>
+  <testcase name="moveDown" classname="g24.controller.map.MapControllerTest" time="0.006"/>
+  <testcase name="moveLeft" classname="g24.controller.map.MapControllerTest" time="0.005"/>
+  <testcase name="moveRight" classname="g24.controller.map.MapControllerTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

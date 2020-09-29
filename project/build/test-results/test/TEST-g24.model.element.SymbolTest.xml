@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="g24.model.element.SymbolTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-06-02T13:47:32" hostname="monchai-XPS-15-9570" time="0.001">
+  <properties/>
+  <testcase name="getSize" classname="g24.model.element.SymbolTest" time="0.0"/>
+  <testcase name="getSymbol" classname="g24.model.element.SymbolTest" time="0.001"/>
+  <testcase name="getColor" classname="g24.model.element.SymbolTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
